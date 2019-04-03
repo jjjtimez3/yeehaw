@@ -4,9 +4,9 @@ public class Greeting{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         clyde();
-        System.out.println("I've never seen yer face in this here saloon before, partner.");
-        System.out.println("You must not be from 'round here.");
-        System.out.println("What's yer name?");
+        System.out.println("I've never seen yer face in this here saloon before, pawtner.O_o");
+        System.out.println("You must not be from 'wound here.");
+        System.out.println("What's yer name?X-X");
         String name = input.nextLine();
         stars();
         int count = 0;
@@ -17,16 +17,16 @@ public class Greeting{
             }
         }
         
-        System.out.println("It's a pleasure to meet ya, " + name + "; welcome to the dusty little town of Outlook. You can call me Clyde.");
-        System.out.println("We ain't got much here 'sides the desert heat, a few tumbleweeds, and the abondoned mine... ");
+        System.out.println("It's a pleasure to meet ya,^.^ " + name + "; welcome to the dusty little town of Outlook. You can call me Cwyde.Xoxo");
+        System.out.println("We ain't got muwch here 'sides the desert heat, a few tumbleweeds, and the abondoned miwne... ");
         
         town();
         
-        System.out.println("Wait a minute... " + name + " has " + count + " letters in it, don' it?");
+        System.out.println("Wait a miwnute O.O... " + name + " has " + count + " lewters in it, don' it?");
         System.out.println("...");
         
-        System.out.println("There's this ol' superstition that folk who enter Outlook with " + count + " letters in their name ");
-        System.out.println("are doomed to be dragged into the mine in the middle of the night by flying spirits. ");
+        System.out.println("There's this ol' superstition that folk who enter Owutlook with " + count + " letters in their name >.< ");
+        System.out.println("are doomed to be dragged into the miwne in the miwddle of the night by flying spirits. >o< ");
         System.out.println("It's just an ol' wives tale, but you'd do well to avoid that cursed location. ");
         
         
