@@ -4,8 +4,8 @@ public class Greeting{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         clyde();
-        System.out.println("I've never seen yer face in this here saloon before, partner.");
-        System.out.println("You must not be from 'round here.");
+        System.out.println("I've never seen yer face in this here saloon before, partner. ( ͡° ͜ʖ ͡°)");
+        System.out.println("You must not be from 'round here. ");
         System.out.println("What's yer name?");
         String name = input.nextLine();
         stars();
@@ -17,12 +17,12 @@ public class Greeting{
             }
         }
         
-        System.out.println("It's a pleasure to meet ya, " + name + "; welcome to the dusty little town of Outlook. You can call me Clyde.");
+        System.out.println("It's a pleasure to meet ya, " + name + "; welcome to the dusty little town of Outlook. You can call me Daddy. (´-ω-`)");
         System.out.println("We ain't got much here 'sides the desert heat, a few tumbleweeds, and the abondoned mine... ");
         
         town();
         
-        System.out.println("Wait a minute... " + name + " has " + count + " letters in it, don' it?");
+        System.out.println("Wait a minute... " + name + " has " + count + " letters in it, don' it? （・□・；） ");
         System.out.println("...");
         
         System.out.println("There's this ol' superstition that folk who enter Outlook with " + count + " letters in their name ");
