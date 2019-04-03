@@ -4,9 +4,9 @@ public class Greeting{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         clyde();
-        System.out.println("I've never seen yer face in this here saloon before, pawtner.O_o");
-        System.out.println("You must not be from 'wound here.");
-        System.out.println("What's yer name?X-X");
+        System.out.println("Yeah, I'm gonna take my horse to the old town road");
+        System.out.println("I'm gonna ride 'til I can't no more");
+        System.out.println("I'm gonna take my horse to the old town road");
         String name = input.nextLine();
         stars();
         int count = 0;
@@ -17,17 +17,17 @@ public class Greeting{
             }
         }
         
-        System.out.println("It's a pleasure to meet ya,^.^ " + name + "; welcome to the dusty little town of Outlook. You can call me Cwyde.Xoxo");
-        System.out.println("We ain't got muwch here 'sides the desert heat, a few tumbleweeds, and the abondoned miwne... ");
+        System.out.println("I'm gonna ride 'til I can't no more " + name + "; I got the horses in the back");
+        System.out.println("Horse tack is attached");
         
         town();
         
-        System.out.println("Wait a miwnute O.O... " + name + " has " + count + " lewters in it, don' it?");
+        System.out.println("Hat is matte black, " + name + "  Got the boots that's black to match");
         System.out.println("...");
         
-        System.out.println("There's this ol' superstition that folk who enter Owutlook with " + count + " letters in their name >.< ");
-        System.out.println("are doomed to be dragged into the miwne in the miwddle of the night by flying spirits. >o< ");
-        System.out.println("It's just an ol' wives tale, but you'd do well to avoid that cursed location. ");
+        System.out.println("Ridin' on a horse, ha");
+        System.out.println("You can whip your Porsche");
+        System.out.println("I been in the valley. You ain't been up off the porch, now ");
         
         
     }
